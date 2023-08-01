@@ -1,3 +1,5 @@
+用于处理，因为双引号问题造成的json_decode无法解析。
+
 coce
 ```
 $input = '{"key": "value", "array": [1, 2, 3]  "nested": {"a": "1dfd"f"ss", "b": 2}}';
